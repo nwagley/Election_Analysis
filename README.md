@@ -24,3 +24,8 @@ Raymon Anthony Doanne who received " 3.1 % " of the vote with " 11,213 " in tota
 #### The winner of the election was
 Diana DeGette who received " 73.8% " of the vote and "272,892 " number of votes. 
 
+#### Summary of Votes 
+There was a total number number of 369,711 votes casted in this election, with 
+Jeffeson county with 38,855 number of total votes which is 10.51% 
+Denver county with 306,055 number of total votes which is 82.78% and 
+Arapahoe with 34,801 number of total votes which is 6.71% 
